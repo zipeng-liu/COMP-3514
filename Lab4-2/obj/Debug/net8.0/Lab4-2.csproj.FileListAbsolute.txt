@@ -1,0 +1,15 @@
+C:\Users\zipen\OneDrive\Desktop\BCIT\Term_03\COMP-3514-Web_C_Sharp_Application_Development\Lab\Lab4-2\bin\Debug\net8.0\Lab4-2.exe
+C:\Users\zipen\OneDrive\Desktop\BCIT\Term_03\COMP-3514-Web_C_Sharp_Application_Development\Lab\Lab4-2\bin\Debug\net8.0\Lab4-2.deps.json
+C:\Users\zipen\OneDrive\Desktop\BCIT\Term_03\COMP-3514-Web_C_Sharp_Application_Development\Lab\Lab4-2\bin\Debug\net8.0\Lab4-2.runtimeconfig.json
+C:\Users\zipen\OneDrive\Desktop\BCIT\Term_03\COMP-3514-Web_C_Sharp_Application_Development\Lab\Lab4-2\bin\Debug\net8.0\Lab4-2.dll
+C:\Users\zipen\OneDrive\Desktop\BCIT\Term_03\COMP-3514-Web_C_Sharp_Application_Development\Lab\Lab4-2\bin\Debug\net8.0\Lab4-2.pdb
+C:\Users\zipen\OneDrive\Desktop\BCIT\Term_03\COMP-3514-Web_C_Sharp_Application_Development\Lab\Lab4-2\obj\Debug\net8.0\Lab4-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zipen\OneDrive\Desktop\BCIT\Term_03\COMP-3514-Web_C_Sharp_Application_Development\Lab\Lab4-2\obj\Debug\net8.0\Lab4-2.AssemblyInfoInputs.cache
+C:\Users\zipen\OneDrive\Desktop\BCIT\Term_03\COMP-3514-Web_C_Sharp_Application_Development\Lab\Lab4-2\obj\Debug\net8.0\Lab4-2.AssemblyInfo.cs
+C:\Users\zipen\OneDrive\Desktop\BCIT\Term_03\COMP-3514-Web_C_Sharp_Application_Development\Lab\Lab4-2\obj\Debug\net8.0\Lab4-2.csproj.CoreCompileInputs.cache
+C:\Users\zipen\OneDrive\Desktop\BCIT\Term_03\COMP-3514-Web_C_Sharp_Application_Development\Lab\Lab4-2\obj\Debug\net8.0\Lab4-2.sourcelink.json
+C:\Users\zipen\OneDrive\Desktop\BCIT\Term_03\COMP-3514-Web_C_Sharp_Application_Development\Lab\Lab4-2\obj\Debug\net8.0\Lab4-2.dll
+C:\Users\zipen\OneDrive\Desktop\BCIT\Term_03\COMP-3514-Web_C_Sharp_Application_Development\Lab\Lab4-2\obj\Debug\net8.0\refint\Lab4-2.dll
+C:\Users\zipen\OneDrive\Desktop\BCIT\Term_03\COMP-3514-Web_C_Sharp_Application_Development\Lab\Lab4-2\obj\Debug\net8.0\Lab4-2.pdb
+C:\Users\zipen\OneDrive\Desktop\BCIT\Term_03\COMP-3514-Web_C_Sharp_Application_Development\Lab\Lab4-2\obj\Debug\net8.0\Lab4-2.genruntimeconfig.cache
+C:\Users\zipen\OneDrive\Desktop\BCIT\Term_03\COMP-3514-Web_C_Sharp_Application_Development\Lab\Lab4-2\obj\Debug\net8.0\ref\Lab4-2.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zipen\\OneDrive\\Desktop\\BCIT\\Term_03\\COMP-3514-Web_C_Sharp_Application_Development\\Lab\\Lab4-1\\Lab4.csproj": {}
+    "C:\\Users\\zipen\\OneDrive\\Desktop\\BCIT\\Term_03\\COMP-3514-Web_C_Sharp_Application_Development\\Lab\\Lab4-2\\Lab4-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zipen\\OneDrive\\Desktop\\BCIT\\Term_03\\COMP-3514-Web_C_Sharp_Application_Development\\Lab\\Lab4-1\\Lab4.csproj": {
+    "C:\\Users\\zipen\\OneDrive\\Desktop\\BCIT\\Term_03\\COMP-3514-Web_C_Sharp_Application_Development\\Lab\\Lab4-2\\Lab4-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zipen\\OneDrive\\Desktop\\BCIT\\Term_03\\COMP-3514-Web_C_Sharp_Application_Development\\Lab\\Lab4-1\\Lab4.csproj",
-        "projectName": "Lab4",
-        "projectPath": "C:\\Users\\zipen\\OneDrive\\Desktop\\BCIT\\Term_03\\COMP-3514-Web_C_Sharp_Application_Development\\Lab\\Lab4-1\\Lab4.csproj",
+        "projectUniqueName": "C:\\Users\\zipen\\OneDrive\\Desktop\\BCIT\\Term_03\\COMP-3514-Web_C_Sharp_Application_Development\\Lab\\Lab4-2\\Lab4-2.csproj",
+        "projectName": "Lab4-2",
+        "projectPath": "C:\\Users\\zipen\\OneDrive\\Desktop\\BCIT\\Term_03\\COMP-3514-Web_C_Sharp_Application_Development\\Lab\\Lab4-2\\Lab4-2.csproj",
         "packagesPath": "C:\\Users\\zipen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zipen\\OneDrive\\Desktop\\BCIT\\Term_03\\COMP-3514-Web_C_Sharp_Application_Development\\Lab\\Lab4-1\\obj\\",
+        "outputPath": "C:\\Users\\zipen\\OneDrive\\Desktop\\BCIT\\Term_03\\COMP-3514-Web_C_Sharp_Application_Development\\Lab\\Lab4-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zipen\\AppData\\Roaming\\NuGet\\NuGet.Config"
